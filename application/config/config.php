@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://learnwebdev.my.id/';
+$config['base_url'] = 'https://milaamaliad.github.io/skripsi---learnwebdev.my.id/';
 
 /*
 |--------------------------------------------------------------------------
